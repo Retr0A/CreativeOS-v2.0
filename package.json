@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "The Web OS",
   "scripts": {
+    "dev": "next dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -10,5 +11,8 @@
     "url": "git+https://github.com/Retr0A/CreativeOS-v2.0.git"
   },
   "author": "Retr0A",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.0.7"
+  }
 }
