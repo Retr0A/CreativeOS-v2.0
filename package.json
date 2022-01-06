@@ -1,0 +1,14 @@
+{
+  "name": "creativeos-v2.0",
+  "version": "1.0.0",
+  "description": "The Web OS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Retr0A/CreativeOS-v2.0.git"
+  },
+  "author": "Retr0A",
+  "license": "MIT"
+}
